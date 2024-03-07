@@ -1,0 +1,10 @@
+{
+    "host":"localhost",
+    "port":"8090",
+    "debug": true,
+    "drone": false,
+    "hivemind_ip": "73.6.214.63",
+    "drone_ips": [
+        "45.41.206.4"
+    ]
+}
